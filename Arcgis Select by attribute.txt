@@ -1,0 +1,10 @@
+def rem (x):
+  if x=='Akrani':     ----2 Space befort if
+    return "1"   ---- 4 Space before return
+  elif x== 'Alwan':
+    return "2"
+  else:
+    return "No"
+  
+
+rem (!HBENAME!)
